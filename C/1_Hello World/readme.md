@@ -12,4 +12,8 @@ The objectives are simple:
 
 If everything goes well, you will be ready to fetch your first real exercise.
 
+<<<<<<< HEAD
 [SOLUTION](hello_world.c)
+=======
+[ SOLUTION ](C\1_Hello World\hello_world.c)
+>>>>>>> 2963d665ac5932f3639c4ba281046f680afebfdf
