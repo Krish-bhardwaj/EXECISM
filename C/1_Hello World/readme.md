@@ -12,4 +12,4 @@ The objectives are simple:
 
 If everything goes well, you will be ready to fetch your first real exercise.
 
-[SOLUTION](C\1_Hello World\hello_world.c)
+[SOLUTION](hello_world.c)

@@ -1,2 +1,4 @@
 # C
-1. [Hello World](C\1_Hello World\readme.md)
+1. [Hello World](1_Hello%20World/readme.md)
+2. [Armstrong number](2_Armstrong%20Number/readme.md)
+3. 
